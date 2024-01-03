@@ -1,0 +1,3 @@
+void generateRandomAnswer(char *answer);{
+
+}
