@@ -4,6 +4,11 @@
 #include<string.h>
 #include<stdbool.h>
 #pragma warning( disable : 4996 )
+#include"ray.h"
+#include"jason.h"
+#include"jason1.h"
+#include"William.h"
+#include"William1.h"
 
 void playGame(const char answer);
 void calculateAB(const charanswer, const char guess, int A, int B);
