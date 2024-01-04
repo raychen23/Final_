@@ -24,6 +24,6 @@ int main() {
 
 	printf("歡迎來到猜數字遊戲\n");
 	playGame(answer);
-	//printf("%s",answer);
+	//printf("顯示答案%s",answer);
 	return 0;
 }
