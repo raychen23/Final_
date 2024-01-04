@@ -19,11 +19,11 @@ void displayGameStats(int attempts);
 int main() {
 	srand((unsigned int)time(NULL));
 	char answer[5];
-
+	
 	generateRandomAnswer(answer);
 
 	printf("歡迎來到猜數字遊戲\n");
 	playGame(answer);
-
+	//printf("%s",answer);
 	return 0;
 }
